@@ -1,4 +1,4 @@
-var Calculator = require("./calculator.js");
+var Calculator = require('./Calculator.js');
 var calc = new Calculator();
 
 console.log(calc.num1);
