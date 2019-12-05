@@ -2,7 +2,7 @@ let getTitle = new Promise(function(resolve,reject){
 
     //return the title of the current page
 
-    let isTitleReceived=false;
+    let isTitleReceived = false;  //promises is not resolved
 
     if(isTitleReceived){
 
