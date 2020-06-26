@@ -10,7 +10,6 @@ describe('Promises Example',function(){
     }
 
     it('Understanding Promises Real Time',function(){
-
         browser.ignoreSynchronization=true; //when we work with non angular app we have to write this line, otherwise protrator can't recognize it
         browser.get("http://www.tizag.com/htmlT/htmlcheckboxes.php");
 

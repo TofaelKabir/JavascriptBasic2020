@@ -20,3 +20,8 @@ if(c<d){
 }else{
     console.log("Both are equal")
 }
+if (){
+
+} {
+
+}
