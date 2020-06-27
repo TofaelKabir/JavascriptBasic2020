@@ -1,7 +1,21 @@
 // simple function without argument and without return value
 
-function hello()
-{
+function myInfo(){
+	console.log('Tofael')
+	console.log('483')
+}
+myInfo();
+
+function myInfo2(){
+	var Name = 'Shohag';
+	var age  = 40;
+	console.log(Name, age)
+}
+myInfo2();
+myInfo2();
+
+
+function hello() {
 	console.log("This is my function");
 	console.log("This is no argument and no return value function");
 }

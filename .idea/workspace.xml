@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906bc5a6-543a-4cc5-bd07-205b1798f8bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01 Basic/RA6 function1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RA1 basicJavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/RA1 basicJavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA2 equalityOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/RA2 equalityOperator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA4 codtionalstatements.js" beforeDir="false" afterPath="$PROJECT_DIR$/RA4 codtionalstatements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promisesExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/promisesExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA2 equalityOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA3 comparison and logicaloperators.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA4 codtionalstatements.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA6 function1" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/01 Basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition1.js" beforeDir="false" afterPath="$PROJECT_DIR$/condition1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function1.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/function1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function2.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/function2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function4.js" beforeDir="false" afterPath="$PROJECT_DIR$/function4.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,56 +25,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RA2 equalityOperator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RA4 codtionalstatements.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RA5 switchstatement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/condition1.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="104" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RA3 comparison and logicaloperators.js">
+        <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-715">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 Basic/01 Basic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 Basic/function1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="68" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 Basic/function2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,16 +124,16 @@
         <option value="$PROJECT_DIR$/RA1 basicJavascript.js" />
         <option value="$PROJECT_DIR$/RA2 equalityOperator.js" />
         <option value="$PROJECT_DIR$/RA4 codtionalstatements.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/javascript.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/condition1.js" />
+        <option value="$PROJECT_DIR$/function1.js" />
+        <option value="$PROJECT_DIR$/function4.js" />
+        <option value="$PROJECT_DIR$/01 Basic/RA1 basicJavascript.js" />
+        <option value="$PROJECT_DIR$/01 Basic/01 Basic.js" />
+        <option value="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" />
+        <option value="$PROJECT_DIR$/01 Basic/function1.js" />
+        <option value="$PROJECT_DIR$/01 Basic/function2.js" />
+        <option value="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" />
+        <option value="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" />
       </list>
     </option>
   </component>
@@ -103,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,13 +156,20 @@
               <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -128,7 +180,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/01 Basic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,17 +200,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.RA1 basicJavascript.js">
-    <configuration name="RA1 basicJavascript.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA1 basicJavascript.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.RA4 codtionalstatements.js">
+    <configuration name="RA2 equalityOperator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA2 equalityOperator.js" working-dir="$PROJECT_DIR$/01 Basic">
       <method v="2" />
     </configuration>
-    <configuration name="continue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="continue.js" working-dir="$PROJECT_DIR$">
+    <configuration name="RA3 comparison and logicaloperators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA3 comparison and logicaloperators.js" working-dir="$PROJECT_DIR$/01 Basic">
+      <method v="2" />
+    </configuration>
+    <configuration name="RA4 codtionalstatements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA4 codtionalstatements.js" working-dir="$PROJECT_DIR$/01 Basic">
+      <method v="2" />
+    </configuration>
+    <configuration name="function1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 Basic/function1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="function2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function2.js" working-dir="$PROJECT_DIR$/01 Basic">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.RA1 basicJavascript.js" />
-        <item itemvalue="Node.js.continue.js" />
+        <item itemvalue="Node.js.RA4 codtionalstatements.js" />
+        <item itemvalue="Node.js.RA3 comparison and logicaloperators.js" />
+        <item itemvalue="Node.js.function2.js" />
+        <item itemvalue="Node.js.function1.js" />
+        <item itemvalue="Node.js.RA2 equalityOperator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -175,15 +245,24 @@
       <workItem from="1593052579122" duration="597000" />
       <workItem from="1593056807791" duration="997000" />
       <workItem from="1593139699661" duration="1342000" />
+      <workItem from="1593146432234" duration="551000" />
+      <workItem from="1593203031356" duration="508000" />
+      <workItem from="1593205691383" duration="598000" />
+      <workItem from="1593207512575" duration="238000" />
+      <workItem from="1593217037313" duration="1066000" />
+      <workItem from="1593219538609" duration="1009000" />
+      <workItem from="1593221504610" duration="709000" />
+      <workItem from="1593222386986" duration="1780000" />
+      <workItem from="1593224195810" duration="1788000" />
+      <workItem from="1593226017438" duration="827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6111000" />
+    <option name="totallyTimeSpent" value="15185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1400" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,13 +270,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952926" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952926" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,55 +303,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="122" column="11" lean-forward="true" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RA2 equalityOperator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo-spec.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/RA3 comparison and logicaloperators.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-715">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RA4 codtionalstatements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RA5 switchstatement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/string.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/condition1.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/01 Basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/function1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="68" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/function2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="104" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -5,11 +5,13 @@ function course1(){
 	console.log(topic+"  "+duration);
 }
 course1();
+
 // 2nd way
-function course2(topic,duration){
+function course2(topic, duration){
 	console.log(topic+" "+duration);
 }
 course2("Protractor","28 hrs");
+
 // 3rd way
 function course(){  //put the cursor on name, --This constructor function may be converted to a class declaration.
 	this.topic = "Protractor";
@@ -17,6 +19,7 @@ function course(){  //put the cursor on name, --This constructor function may be
 }
 var obj_course = new course();
 console.log(obj_course.topic+" course duration "+obj_course.duration);
+
 //4th way
 function student(Name, ID){
 	this.Name = Name;

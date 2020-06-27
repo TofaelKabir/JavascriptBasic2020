@@ -47,7 +47,7 @@ var result3 = i<=j;
 var result4 = i>=j; //first condition is false, so second one ignored
 var result5 = k<=l; 
 var result6 = k>=l;
-
+// Will tell again
 
 //console.log(typeof result1);
 console.log(result1);  //T
@@ -57,19 +57,19 @@ console.log(result4);  //F
 console.log(result5);  //F
 console.log(result6);  //T
 
-console.log(result3 && result4); //true and false = false
-console.log(result4 && result3); //false and true = false
-console.log(result3 && result6); //true and true = true
-console.log(result4 && result5); //false and false = false
+console.log(result3 && result4); //true and false = false   //1x0=0
+console.log(result4 && result3); //false and true = false   //0x1=0
+console.log(result3 && result6); //true and true = true     //1x1=1
+console.log(result4 && result5); //false and false = false  //0x0=0
 
-console.log(result3 || result4); //true OR false = true
-console.log(result4 || result3); //false OR true = true
-console.log(result3 || result6); //true OR true = true
-console.log(result4 || result5); //false OR false = false
+console.log(result3 || result4); //true OR false = true   // 1+0=1
+console.log(result4 || result3); //false OR true = true   //0+1 =1
+console.log(result3 || result6); //true OR true = true    //1+1=1
+console.log(result4 || result5); //false OR false = false //0+0=0
 
 //Javascript Data Type
 //5 different data type which can contain values:
-//string, number, boolean,object, function
+//string, number, boolean, object, function
 //There are 3 types of Objects: Object, Data, Array
-//2 data types that cannot contain vale: Null and undefined
+//2 data types that cannot contain value: Null and undefined
 
