@@ -41,12 +41,12 @@ var j = 30;
 var k = 40;
 var l = 35;
 
-var result1 = i<j;
-var result2 = i>j;
-var result3 = i<=j; 
-var result4 = i>=j; //first condition is false, so second one ignored
-var result5 = k<=l; 
-var result6 = k>=l;
+var result1 = i < j;
+var result2 = i > j;
+var result3 = i <= j;
+var result4 = i >= j; //first condition is false, so second one ignored
+var result5 = k <= l;
+var result6 = k >= l;
 // Will tell again
 
 //console.log(typeof result1);

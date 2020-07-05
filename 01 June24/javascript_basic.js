@@ -1,3 +1,7 @@
+//https://github.com/Microsoft/vscode/issues/27685
+//for Windows: control+F5
+//FOR mAC IT DOESN'T WORK: THE ABOVE LINK IS FOR TO KNOW MORE.
+
 console.log('\n------------------------------ Printing by console.log ----------------------------');
 console.log('Hello World!!');
 console.log('First coding in Javascript');
@@ -65,14 +69,13 @@ console.log('\n-------------------- Use of sign operator in Int ----------------
 //use of operator: +(sum), -(sub), *(mul), /(div), %(remainder/modulus)
 
 var num1 = 100;
-var num2 = 20;
-var num3 = 3;
+var num2 = 21;
 
-console.log(num1 + num2);  //120
-console.log(num1 - num2); //80
-console.log(num1 * num2); //2000
-console.log(num1 / num2); //5
-console.log(num2 % num3); //2
+console.log(num1 + num2);  //121
+console.log(num1 - num2); //79
+console.log(num1 * num2); //2100
+console.log(num1 / num2); //4.76190
+console.log(num1 % num2); //16
 
 
 console.log('\n-------------------- Use of increment/decrement/logical operator 01 -----------------------');

@@ -2,17 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906bc5a6-543a-4cc5-bd07-205b1798f8bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01 Basic/RA6 function1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 July05/javascript_break 02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 July05/javascript_condition 01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 July05/javascript_condition 02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 July05/javascript_for_loop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA1 basicJavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/RA1 basicJavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA2 equalityOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA3 comparison and logicaloperators.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA4 codtionalstatements.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RA6 function1" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/01 Basic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condition1.js" beforeDir="false" afterPath="$PROJECT_DIR$/condition1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function1.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/function1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function2.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 Basic/function2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function4.js" beforeDir="false" afterPath="$PROJECT_DIR$/function4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/01 Basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_equality_operator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_comparison_and_logicaloperators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_codtionalstatements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/function1.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_function 01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Basic/function2.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 June24/javascript_function 02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA1 basicJavascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RA5 switchstatement.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_switch_statement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/break.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 July05/javascript_break 01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakAndContinue.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 July05/javascript_break_and_continue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition3.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 July05/javascript_condition 03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition4.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 July05/javascript_condition 04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/continue.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 July05/javascript_continue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function3.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_function 03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function4.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_function 04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_string_manipulation 01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string2.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_string_manipulation 02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whileloop1.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_while_loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whileloop2.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,82 +44,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 July05/javascript_for_loop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-246">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript_while_loop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript_switch_statement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript_string_manipulation 01.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1197" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf1.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="104" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/todo-spec.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/javascript_string_manipulation 02.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 Basic/01 Basic.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/getTitle.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js">
+        <entry file="file://$PROJECT_DIR$/javascript_function 03.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="43" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 Basic/function1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="68" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 Basic/function2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="22">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -121,19 +130,37 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RA1 basicJavascript.js" />
         <option value="$PROJECT_DIR$/RA2 equalityOperator.js" />
         <option value="$PROJECT_DIR$/RA4 codtionalstatements.js" />
-        <option value="$PROJECT_DIR$/condition1.js" />
         <option value="$PROJECT_DIR$/function1.js" />
         <option value="$PROJECT_DIR$/function4.js" />
         <option value="$PROJECT_DIR$/01 Basic/RA1 basicJavascript.js" />
         <option value="$PROJECT_DIR$/01 Basic/01 Basic.js" />
-        <option value="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" />
         <option value="$PROJECT_DIR$/01 Basic/function1.js" />
         <option value="$PROJECT_DIR$/01 Basic/function2.js" />
         <option value="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" />
         <option value="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" />
+        <option value="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" />
+        <option value="$PROJECT_DIR$/01 Basic/javascript_basic.js" />
+        <option value="$PROJECT_DIR$/break.js" />
+        <option value="$PROJECT_DIR$/02 July05/break 01.js" />
+        <option value="$PROJECT_DIR$/02 July05/break 02.js" />
+        <option value="$PROJECT_DIR$/breakAndContinue.js" />
+        <option value="$PROJECT_DIR$/01 June24/javascript_codtionalstatements.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_break 02.js" />
+        <option value="$PROJECT_DIR$/condition1.js" />
+        <option value="$PROJECT_DIR$/condition2.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_condition 03.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_condition 04.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_continue.js" />
+        <option value="$PROJECT_DIR$/javascript_loop 01.js" />
+        <option value="$PROJECT_DIR$/RA1 basicJavascript.js" />
+        <option value="$PROJECT_DIR$/01 June24/javascript_basic.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_loop 02.js" />
+        <option value="$PROJECT_DIR$/02 July05/javascript_loop 01.js" />
+        <option value="$PROJECT_DIR$/whileloop2.js" />
+        <option value="$PROJECT_DIR$/whileloop1.js" />
+        <option value="$PROJECT_DIR$/RA5 switchstatement.js" />
       </list>
     </option>
   </component>
@@ -159,7 +186,12 @@
             <path>
               <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="01 June24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="02 July05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02 July05" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -183,7 +215,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02 July05" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02 July05" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/01 Basic" />
     </key>
@@ -200,29 +236,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.RA4 codtionalstatements.js">
-    <configuration name="RA2 equalityOperator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA2 equalityOperator.js" working-dir="$PROJECT_DIR$/01 Basic">
+  <component name="RunManager" selected="Node.js.javascript_switch_statement.js">
+    <configuration name="javascript_condition 04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_condition 04.js" working-dir="$PROJECT_DIR$/02 July05">
       <method v="2" />
     </configuration>
-    <configuration name="RA3 comparison and logicaloperators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA3 comparison and logicaloperators.js" working-dir="$PROJECT_DIR$/01 Basic">
+    <configuration name="javascript_continue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_continue.js" working-dir="$PROJECT_DIR$/02 July05">
       <method v="2" />
     </configuration>
-    <configuration name="RA4 codtionalstatements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="RA4 codtionalstatements.js" working-dir="$PROJECT_DIR$/01 Basic">
+    <configuration name="javascript_for_loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02 July05/javascript_for_loop.js" working-dir="$PROJECT_DIR$/02 July05">
       <method v="2" />
     </configuration>
-    <configuration name="function1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 Basic/function1.js" working-dir="$PROJECT_DIR$">
+    <configuration name="javascript_loop 02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_loop 02.js" working-dir="$PROJECT_DIR$/02 July05">
       <method v="2" />
     </configuration>
-    <configuration name="function2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="function2.js" working-dir="$PROJECT_DIR$/01 Basic">
+    <configuration name="javascript_switch_statement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javascript_switch_statement.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.RA4 codtionalstatements.js" />
-        <item itemvalue="Node.js.RA3 comparison and logicaloperators.js" />
-        <item itemvalue="Node.js.function2.js" />
-        <item itemvalue="Node.js.function1.js" />
-        <item itemvalue="Node.js.RA2 equalityOperator.js" />
+        <item itemvalue="Node.js.javascript_switch_statement.js" />
+        <item itemvalue="Node.js.javascript_loop 02.js" />
+        <item itemvalue="Node.js.javascript_for_loop.js" />
+        <item itemvalue="Node.js.javascript_continue.js" />
+        <item itemvalue="Node.js.javascript_condition 04.js" />
       </list>
     </recent_temporary>
   </component>
@@ -254,12 +290,18 @@
       <workItem from="1593221504610" duration="709000" />
       <workItem from="1593222386986" duration="1780000" />
       <workItem from="1593224195810" duration="1788000" />
-      <workItem from="1593226017438" duration="827000" />
+      <workItem from="1593226017438" duration="1052000" />
+      <workItem from="1593229144158" duration="556000" />
+      <workItem from="1593643741032" duration="73000" />
+      <workItem from="1593912012498" duration="1017000" />
+      <workItem from="1593913063995" duration="1764000" />
+      <workItem from="1593914876272" duration="2052000" />
+      <workItem from="1593919520228" duration="1789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15185000" />
+    <option name="totallyTimeSpent" value="22661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1400" height="793" extended-state="0" />
@@ -282,114 +324,237 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/continue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/breakAndContinue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo-spec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RA5 switchstatement.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/condition1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function4.js">
+    <entry file="file://$PROJECT_DIR$/javascript_function 04.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/01 Basic.js">
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_equality_operator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
+        <state>
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/function1.js">
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_function 02.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="68" selection-start-line="18" selection-start-column="17" selection-end-line="19" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/function2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="291">
           <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function3.js">
+    <entry file="file://$PROJECT_DIR$/calculator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_comparison_and_logicaloperators.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="211">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_break_and_continue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-730">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_condition 01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_condition 02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_condition 04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_continue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doWhileLoop.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_break 02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_codtionalstatements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 June24/javascript_function 01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_condition 03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_break 01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_loop 02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" lean-forward="true" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 July05/javascript_for_loop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileloop2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_while_loop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_switch_statement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_string_manipulation 01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_string_manipulation 02.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getTitle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript_function 03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RA1 basicJavascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/conf1.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="104" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/todo-spec.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

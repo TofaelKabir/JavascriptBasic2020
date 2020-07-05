@@ -11,12 +11,12 @@ var j = 20;
 var k = 10;
 
 console.log('\n-------------------- Use of equality and non equality operator -----------------------');
-console.log(i==j);
-console.log(i!=j);
+console.log(i == j);
+console.log(i != j);
 
 console.log('\n-------------------- Use of equality and non equality operator -----------------------');
-console.log(i==k);
-console.log(i!=k);
+console.log(i == k);
+console.log(i != k);
 
 console.log('\n-------------------- Use of equality and non equality operator -----------------------');
 var s1 = "Mohammad";  //String Value
@@ -24,16 +24,18 @@ var s2 = "mohAmmad"; //case sensitive, they are not equal
 
 var s3 = new String("Mohammad"); //String object is created
 
-console.log(s1==s2);  //comparing String value
-console.log(s1===s3); // comparing between String Value and  Object, so this is false. Because === compare type
+console.log(s3);
+
+console.log(s1 == s2);  //comparing String value
+console.log(s1 === s3); // comparing between String Value and  Object, so this is false. Because === compare type
 
 var s4 = new String("Mohammad"); //String object
-console.log(s3===s4); // because comparing between 2 different Object, so should be true //but I am still confused how it can be true?
+console.log(s3 === s4); // because comparing between 2 different Object, so should be true //but I am still confused how it can be true?
 
 var s5 = 20;
 var s6 = 20;
-console.log(s5==s6);
-console.log(s5===s6);
+console.log(s5 == s6);
+console.log(s5 === s6);
 //TODO Need to know about it and inform everyone
 
 console.log('\n-------------------- Use of equal operator -----------------------');
