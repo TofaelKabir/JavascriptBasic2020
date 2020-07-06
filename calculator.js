@@ -1,4 +1,4 @@
-function Calculator() {
+function calculator() {
     this.num1 = 10;
     this.num2 = 20;
 
@@ -11,8 +11,9 @@ function Calculator() {
     };
 
     this.sub = function (a, b) {
+        console.log(a - b);
         return a - b;
     };
 }
 
-module.exports = Calculator;  //this is used to 
+module.exports = calculator;  //this is used to

@@ -27,3 +27,4 @@ function student(Name, ID){
 }
 var obj_student = new student("Mohammad",218845);
 console.log("Student Name: "+obj_student.Name+" and ID: "+obj_student.ID);
+

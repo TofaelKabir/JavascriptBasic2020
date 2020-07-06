@@ -1,5 +1,5 @@
-var Calculator = require('./Calculator.js');
-var calc = new Calculator();
+var calculator = require('./calculator.js');
+var calc = new calculator();
 
 console.log(calc.num1);
 calc.print();

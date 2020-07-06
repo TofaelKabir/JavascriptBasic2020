@@ -67,7 +67,7 @@ console.log(result4 || result3); //false OR true = true   //0+1 =1
 console.log(result3 || result6); //true OR true = true    //1+1=1
 console.log(result4 || result5); //false OR false = false //0+0=0
 
-//Javascript Data Type
+//Available Javascript Data Type
 //5 different data type which can contain values:
 //string, number, boolean, object, function
 //There are 3 types of Objects: Object, Data, Array

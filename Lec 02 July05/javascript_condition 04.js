@@ -13,6 +13,6 @@ if (marks < 0 || marks > 100) {
     console.log("Sorry, you are failed");
 } else if (marks >= 31 && marks <= 60) {
     console.log("You are passed");
-} else {
+} else if (marks >= 61 && marks <=100) {
     console.log("Pass with Honors");
 }

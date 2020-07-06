@@ -12,3 +12,16 @@ for (var i = 1; i <= 10; i++) {
     }
     console.log(i);
 }
+
+console.log("\n---------- for loop ----------");
+for (var i = 1; i <= 20; i=i+2) {
+    console.log(i);
+}
+
+console.log("\n---------- Break it when you find 8 ----------");
+for (var i = 1; i <= 20; i=i+2) {
+    if (i == 8) {
+        break;
+    }
+    console.log(i);
+}
