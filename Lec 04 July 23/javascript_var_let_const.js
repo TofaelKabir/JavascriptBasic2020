@@ -13,10 +13,11 @@ printout1();
 console.log("\n------------------- Use of let --------------------")
 
 function printout2() {
-    for (let i = 1; i <= 5; i++) { //let make the variable local, the scope is limited only here
+    for (let i = 1; i <= 5; i++) { //let -- make the variable local, the scope is limited only here
         console.log(i);
     }
-    //console.log("Value of i outside the loop is : " + i); // because of let, this line doesn't work
+    //console.log("Value of i outside the loop is : " + i);
+    // because of let, this line doesn't work
 }
 
 printout2();
@@ -30,11 +31,12 @@ var b = 25;
 var b = 35;
 console.log(b);
 
-const c = 20; // constant value can't be changed, fixed value.
+const c = 20; // constant value can't be changed, fixed value. like final
 console.log(c);
 
 const d = 25;
-// d = 35;  //will show type error,
+//const d = 45; //SyntaxError: Identifier 'd' has already been declared
+//var d = 35;  //will show type error, SyntaxError: Identifier 'd' has already been declared
 console.log(d);
 
 

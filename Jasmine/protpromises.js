@@ -1,3 +1,11 @@
+describe("related to describe", function () {
+      it('related to method', function () {
+
+      });
+    }
+
+)
+
 describe('Testing angular application', function() {
   it('understanding promises', function() {
     browser.get(

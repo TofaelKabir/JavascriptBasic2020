@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906bc5a6-543a-4cc5-bd07-205b1798f8bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lec 01 June24/javascript_function 03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lec 04 July 23/TestCalculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/Calculator2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf1.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/conf1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf2.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/conf2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/javascript_array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_function 03.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/javascript_function 03.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_function 04.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/javascript_function 04.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_switch_statement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/javascript_switch_statement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript_var_let_const.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04/javascript_var_let_const.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop question" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promisesExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/promisesExample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protractorPromises.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/protractorPromises.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor/todo-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jasmine/protpromises.js" beforeDir="false" afterPath="$PROJECT_DIR$/Jasmine/protpromises.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/Calculator2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04 July 23/LearningCalculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/javascript_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04 July 23/javascript_array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/javascript_function 03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/javascript_function 04.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 01 June24/javascript_function 04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/javascript_switch_statement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04 July 23/javascript_switch_statement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lec 04/javascript_var_let_const.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lec 04 July 23/javascript_var_let_const.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,90 +26,89 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jasmine.js">
+        <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 03.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 04.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lec 04 July 23/javascript_switch_statement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lec 04 July 23/javascript_var_let_const.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lec 04 July 23/LearningCalculator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret column="27" selection-start-column="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/javascript_array.js">
+        <entry file="file://$PROJECT_DIR$/Lec 04 July 23/TestCalculator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/javascript_function 03.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/javascript_function 04.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/javascript_switch_statement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/javascript_var_let_const.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protpromises.js">
+        <entry file="file://$PROJECT_DIR$/Jasmine/getTitle.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="14" selection-start-column="14" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lec 04/Calculator2.js">
+        <entry file="file://$PROJECT_DIR$/Jasmine/protpromises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="11">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getTitle.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 01.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 02.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -131,16 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RA4 codtionalstatements.js" />
-        <option value="$PROJECT_DIR$/function1.js" />
-        <option value="$PROJECT_DIR$/function4.js" />
-        <option value="$PROJECT_DIR$/01 Basic/RA1 basicJavascript.js" />
-        <option value="$PROJECT_DIR$/01 Basic/01 Basic.js" />
-        <option value="$PROJECT_DIR$/01 Basic/function1.js" />
-        <option value="$PROJECT_DIR$/01 Basic/function2.js" />
-        <option value="$PROJECT_DIR$/01 Basic/RA3 comparison and logicaloperators.js" />
-        <option value="$PROJECT_DIR$/01 Basic/RA4 codtionalstatements.js" />
-        <option value="$PROJECT_DIR$/01 Basic/RA2 equalityOperator.js" />
         <option value="$PROJECT_DIR$/01 Basic/javascript_basic.js" />
         <option value="$PROJECT_DIR$/break.js" />
         <option value="$PROJECT_DIR$/02 July05/break 01.js" />
@@ -182,14 +167,23 @@
         <option value="$PROJECT_DIR$/javascript_string_manipulation 01.js" />
         <option value="$PROJECT_DIR$/javascript_string_manipulation 02.js" />
         <option value="$PROJECT_DIR$/Lec 03 July12/javascript_string_manipulation 02.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/javascript_array.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/javascript_function 03.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/javascript_function 04.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/javascript_switch_statement.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/javascript_var_let_const.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/calculator.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/Calculator2.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/LearningCalculator.js" />
+        <option value="$PROJECT_DIR$/Lec 04 July 23/TestCalculator.js" />
+        <option value="$PROJECT_DIR$/Jasmine/protpromises.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="16" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="842" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,15 +220,15 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02 July05" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lec 01 June24" />
+      <recent name="$PROJECT_DIR$/Jasmine" />
       <recent name="$PROJECT_DIR$/Lec 04" />
       <recent name="$PROJECT_DIR$/protractor" />
       <recent name="$PROJECT_DIR$/Lec 03 July12" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/02 July05" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/02 July05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,29 +243,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.javascript_condition 02.js">
-    <configuration name="javascript_condition 02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_condition 02.js" working-dir="$PROJECT_DIR$/Lec 02 July05">
+  <component name="RunManager" selected="Node.js.TestCalculator.js">
+    <configuration name="TestCalculator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 04 July 23/TestCalculator.js" working-dir="$PROJECT_DIR$/Lec 04 July 23">
       <method v="2" />
     </configuration>
-    <configuration name="javascript_do_while_loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 03 July12/javascript_do_while_loop.js" working-dir="$PROJECT_DIR$">
+    <configuration name="javascript_function 03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 01 June24/javascript_function 03.js" working-dir="$PROJECT_DIR$/Lec 04 July 23">
       <method v="2" />
     </configuration>
-    <configuration name="javascript_string_manipulation 01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_string_manipulation 01.js" working-dir="$PROJECT_DIR$">
+    <configuration name="javascript_function 04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 01 June24/javascript_function 04.js" working-dir="$PROJECT_DIR$/Lec 04 July 23">
       <method v="2" />
     </configuration>
-    <configuration name="javascript_string_manipulation 02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 03 July12/javascript_string_manipulation 02.js" working-dir="$PROJECT_DIR$">
+    <configuration name="javascript_switch_statement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_switch_statement.js" working-dir="$PROJECT_DIR$/Lec 04 July 23">
       <method v="2" />
     </configuration>
-    <configuration name="javascript_while_loop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lec 03 July12/javascript_while_loop.js" working-dir="$PROJECT_DIR$">
+    <configuration name="javascript_var_let_const.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="javascript_var_let_const.js" working-dir="$PROJECT_DIR$/Lec 04 July 23">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.javascript_condition 02.js" />
-        <item itemvalue="Node.js.javascript_string_manipulation 02.js" />
-        <item itemvalue="Node.js.javascript_string_manipulation 01.js" />
-        <item itemvalue="Node.js.javascript_do_while_loop.js" />
-        <item itemvalue="Node.js.javascript_while_loop.js" />
+        <item itemvalue="Node.js.TestCalculator.js" />
+        <item itemvalue="Node.js.javascript_var_let_const.js" />
+        <item itemvalue="Node.js.javascript_switch_statement.js" />
+        <item itemvalue="Node.js.javascript_function 04.js" />
+        <item itemvalue="Node.js.javascript_function 03.js" />
       </list>
     </recent_temporary>
   </component>
@@ -330,29 +324,33 @@
       <workItem from="1594607904527" duration="1599000" />
       <workItem from="1595012800817" duration="367000" />
       <workItem from="1595014594861" duration="384000" />
-      <workItem from="1595180711533" duration="460000" />
+      <workItem from="1595180711533" duration="1085000" />
+      <workItem from="1595372138519" duration="3000" />
+      <workItem from="1595555730993" duration="1768000" />
+      <workItem from="1595557531310" duration="1777000" />
+      <workItem from="1595559353930" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44054000" />
+    <option name="totallyTimeSpent" value="48460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="842" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="843" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19450317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39812332" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34840426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32707775" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3257979" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -411,20 +409,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -574,24 +558,8 @@
     <entry file="file://$PROJECT_DIR$/protractor/conf2.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/calculator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/Calculator2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getTitle.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jasmine.js">
+    <entry file="file://$PROJECT_DIR$/oop question" />
+    <entry file="file://$PROJECT_DIR$/Jasmine/jasmine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -600,47 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/javascript_array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/javascript_function 03.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/javascript_function 04.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/javascript_switch_statement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop question">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lec 04/javascript_var_let_const.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protpromises.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -648,6 +575,82 @@
             <caret column="14" selection-start-column="14" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 04 July 23/javascript_array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 04 July 23/javascript_switch_statement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 04 July 23/javascript_var_let_const.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 04 July 23/LearningCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 04 July 23/TestCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jasmine/getTitle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lec 01 June24/javascript_function 02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jasmine/protpromises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>

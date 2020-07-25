@@ -1,4 +1,4 @@
-function calculator() {
+function learningCalculator() { //constructor type function
     this.num1 = 10;
     this.num2 = 20;
 
@@ -16,4 +16,4 @@ function calculator() {
     };
 }
 
-module.exports = calculator;  //this is used to
+module.exports = learningCalculator;  //this is used to

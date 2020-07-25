@@ -1,15 +1,18 @@
-var month = "June";
+var month = "Dec";
 
 switch(month){
     case "Jan":
         console.log("January is selected");
         break;
+
     case "Feb":
         console.log("February is selected");
         break;
+
     case "Mar":
         console.log("March is selected");
         break;
+
     case "Apr":
         console.log("April is selected");
         break;
